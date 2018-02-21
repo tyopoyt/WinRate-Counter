@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WinRateCounter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/WinRateCounter_jar</output-path>
+    <root id="archive" name="WinRateCounter.jar">
+      <element id="module-output" name="WinRateCounter" />
+    </root>
+  </artifact>
+</component>
